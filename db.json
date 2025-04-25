@@ -127,7 +127,7 @@
       "nome": "Ração Premium",
       "descricao": "Ração de alta qualidade para cães adultos",
       "preco": 89.9,
-      "estoque": 47,
+      "estoque": 46,
       "categoria": "Alimentação"
     },
     {
@@ -143,7 +143,7 @@
       "nome": "Brinquedo Interativo",
       "descricao": "Brinquedo para estimular a inteligência do pet",
       "preco": 45,
-      "estoque": 18,
+      "estoque": 17,
       "categoria": "Brinquedos"
     }
   ],
